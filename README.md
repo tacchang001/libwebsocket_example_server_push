@@ -1,0 +1,2 @@
+# libwebsocket_example_server_push
+libwebsocketsライブラリのサンプル。libwebsocketsおよびサーバプッシュのメカニズムの確認
